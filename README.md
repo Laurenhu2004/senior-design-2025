@@ -22,7 +22,7 @@ This repository contains resources and scripts for working with the LIMO Pro Cob
 - Create virtual environment
 - Run `brew install portaudio` or similar package
 - Run `pip install -r requirements.txt`
-- 
+
 1. Ensure that the `ros_scripts` folder in this repository is accessible in your ROS workspace. Adjust the `ROS_PACKAGE_PATH` if needed.
 
 ## Moving from Depth found at given XY-coordinate Execution Steps
