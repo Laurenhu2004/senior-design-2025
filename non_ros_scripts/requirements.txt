@@ -1,0 +1,7 @@
+pyaudio
+opencv-python
+tensorflow
+google-auth
+google-cloud-speech
+transformers
+ultralytics
