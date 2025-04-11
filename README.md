@@ -1,4 +1,4 @@
-# senior-design
+# senior-design-2025
 This repository contains resources and scripts for working with the LIMO Pro Cobot using ROS 1 Noetic. Follow the instructions below to set up and execute the project workflows.
 
 
